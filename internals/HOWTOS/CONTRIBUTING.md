@@ -58,6 +58,7 @@ All Rights reserved.
 
 ---
 
+<!--
 ```metadata
 Creator: Thiago Modelli <thiago@modelli.us>
 Created: May 12, 2022
@@ -65,5 +66,4 @@ Contributions:
 - [[COMMIT ID]] Thiago Modelli <thiago@modelli.us>
 
 ```
-
----
+-->

@@ -12,8 +12,8 @@
 
 ## Summary
 
-    - This section relates to the scripts used in the Contribution, Compilation and Publishing of the SheatSheet dataset into its official Website.
-    - If yu would like to contribute to our open knowledge base, please go check the [How To Contribute](./CONTRIBUTING.md)
+- This section relates to the scripts used in the Contribution, Compilation and Publishing of the SheatSheet dataset into its official Website.
+- If yu would like to contribute to our open knowledge base, please go check the [How To Contribute](./CONTRIBUTING.md)
 
 ## Scripts
 
@@ -34,6 +34,7 @@ All Rights reserved.
 
 ---
 
+<!--
 ```metadata
 
 Creator: Thiago Modelli <thiago@modelli.us>
@@ -43,4 +44,4 @@ Contributions:
 
 ```
 
----
+-->

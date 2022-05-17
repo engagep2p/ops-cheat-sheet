@@ -43,6 +43,7 @@ All Rights reserved.
 
 ---
 
+<!--
 ```metadata
 
 Creator: Thiago Modelli <thiago@modelli.us>
@@ -53,3 +54,4 @@ Contributions:
 ```
 
 ---
+-->
